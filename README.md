@@ -1,2 +1,2 @@
 # MindTab
-Mindfulness on every new tab
+Mindfulness on every tab
