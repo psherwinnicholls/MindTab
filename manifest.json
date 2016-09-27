@@ -5,7 +5,7 @@
   "version": "0.1",
 
   // Recommended
-  "description": "Mindfulness on every new tab",
+  "description": "Mindfulness on every tab",
 
   "chrome_url_overrides": {
     "newtab": "index.html"
